@@ -1,6 +1,6 @@
 <?php
 
-namespace Rswork\Silex\Combine;
+namespace Rswork\Component\Combine;
 
 class Combine
 {
